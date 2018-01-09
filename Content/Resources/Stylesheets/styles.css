@@ -277,4 +277,15 @@ p.ManualVersionNumber
 		margin-left: 0.10in;
 		margin-top: 2px;
 	}
+
+	p.heading
+	{
+		font-size: 12;
+		font-style: italic;
+		font-family: Arial;
+		border-bottom-style: dotted;
+		border-color: #3f362b;
+		color: #ff0000;
+	}
 }
+
